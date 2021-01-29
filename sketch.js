@@ -83,3 +83,8 @@ function keyPressed(){
         slingshot.attach(bird.body);
     }
 }
+//function keyPressed(){
+    //if(keyCode === 32){
+        //slingshot.attach(bird.body);
+    //}
+//}
